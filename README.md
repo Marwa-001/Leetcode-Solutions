@@ -27,6 +27,7 @@ Inside each problem's folder, you will find:
 - [1528 - Shuffle String](./1528%20-%20Shuffle%20String)
 - [1832 - Check if the Sentence Is a Pangram](./1832%20-%20Check%20if%20the%20Sentence%20Is%20a%20Pangram)
 - [3090 - Count Prefix and Suffix Part 1](./3090%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
+- [575 - Design Candies](./575%20-%20Design%20Candies)
 
 ### Medium
 _No medium problems solved yet._
