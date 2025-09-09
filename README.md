@@ -17,7 +17,7 @@ Inside each problem's folder, you will find:
 ## ✅ Problems Solved
 
 ### Easy
-- [557 - Reverse Words in a String](./151%20-%20Reverse%20Words%20in%20a%20String)
+- [557 - Reverse Words in a String](./557%20-%20Reverse%20Words%20in%20a%20String)
 - [705 - Design HashSet](./705%20-%20Design%20HashSet)
 - [706 - Design HashMap](./706%20-%20Design%20HashMap)
 - [832 - Flipping an Image](./832%20-%20Flipping%20an%20Image)
