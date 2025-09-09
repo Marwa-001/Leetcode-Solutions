@@ -1,50 +1,54 @@
-LeetCode Problem #706: Design HashMap
-Link to the problem on LeetCode
+# LeetCode Problem #706: Design HashMap
 
-Description
-Design a HashMap without using any built-in hash map libraries.
+🔗 [Link to the problem on LeetCode](https://leetcode.com/problems/design-hashmap/)
 
-Your MyHashMap class should implement the following functions:
+---
 
-MyHashMap(): Initializes the MyHashMap object.
+## 📖 Description
+Design a **HashMap** without using any built-in hash map libraries.
 
-void put(int key, int value): Inserts a (key, value) pair into the map. If the key already exists, update its corresponding value.
+Your `MyHashMap` class should implement the following functions:
 
-int get(int key): Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key.
+- **MyHashMap()** → Initializes the `MyHashMap` object.  
+- **void put(int key, int value)** → Inserts a `(key, value)` pair into the map. If the key already exists, update its corresponding value.  
+- **int get(int key)** → Returns the value mapped to `key`, or `-1` if the map contains no mapping for the key.  
+- **void remove(int key)** → Removes the key and its corresponding value if it exists.  
 
-void remove(int key): Removes the key and its corresponding value if the map contains the mapping for the key.
+---
 
-My Approach
-My solution to this problem is to use C++'s built-in std::unordered_map as the underlying data structure. This class provides an efficient and robust hash map implementation that handles all the complexities of hashing, collision resolution, and memory management.
+## 💡 My Approach
+- I used **C++ STL’s `std::unordered_map`** to efficiently implement the hash map.  
+- The underlying structure handles **hashing, collisions, and memory management** automatically.  
 
-The put(key, value) method uses the subscript operator [] of std::unordered_map. This operator is very convenient as it handles both insertion and updating: if the key doesn't exist, it is created with the new value; if it already exists, its value is simply overwritten.
+Implementation details:
+- `put(key, value)` → Uses the subscript operator `[]`, which inserts if the key does not exist, or updates if it does.  
+- `get(key)` → Uses `find()`. If the key exists, return its value; otherwise return `-1`.  
+- `remove(key)` → Uses `erase()` to remove a key safely.  
 
-The get(key) method first checks for the key's existence using the find() method. If find() returns an iterator that is not equal to the end() iterator, it means the key was found, and I can then return its value. If the key is not found, I return -1 as required by the problem description.
+This approach is simple, efficient, and leverages the robustness of STL.  
 
-The remove(key) method uses std::unordered_map's erase() method, which safely removes the key-value pair. The method handles cases where the key does not exist without causing an error.
+---
 
-Complexity Analysis
-put Method:
+## ⏱️ Complexity Analysis
 
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n) where n is the number of elements in the map.
+**put()**
+- Time: `O(1)` average, `O(n)` worst-case (collisions).  
+- Space: `O(1)` amortized per insertion.  
 
-Space Complexity: O(1) amortized for adding one element.
+**get()**
+- Time: `O(1)` average, `O(n)` worst-case.  
+- Space: `O(1)`.  
 
-get Method:
+**remove()**
+- Time: `O(1)` average, `O(n)` worst-case.  
+- Space: `O(1)`.  
 
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n).
+**Overall Space:** `O(k)` where `k` = number of unique key-value pairs stored.  
 
-Space Complexity: O(1).
+---
 
-remove Method:
-
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n).
-
-Space Complexity: O(1).
-
-Overall Space Complexity: O(k), where k is the number of unique key-value pairs stored in the hash map.
-
-Solution
+## 🧩 Solution (C++)
+```cpp
 #include <unordered_map>
 
 class MyHashMap {
@@ -59,10 +63,9 @@ public:
     }
     
     int get(int key) {
-        if(hashmap.find(key) != hashmap.end()){
+        if (hashmap.find(key) != hashmap.end()) {
             return hashmap[key];
-        }
-        else{
+        } else {
             return -1;
         }
     }

@@ -1,22 +1,39 @@
-LeetCode Problem #1313: Decompress Run-Length Encoded List
-Link to the problem on LeetCode
+# LeetCode Problem 1313: Decompress Run-Length Encoded List
 
-Description
-We are given a list nums of integers representing a run-length encoded list. Consider each pair of adjacent elements in nums as [freq, val] = [nums[2i], nums[2i+1]].
+🔗 [View Problem on LeetCode](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
-For each such pair, the encoded list contains freq elements with value val. Your task is to return the decompressed list.
+---
 
-My Approach
-My solution is a direct implementation of the problem description. I iterate through the input vector nums in steps of two. The first element of each pair is the frequency (nums[i]), and the second is the value (nums[i+1]).
+## Description
+We are given a list `nums` of integers representing a run-length encoded list.  
+Each pair of adjacent elements in `nums` is `[freq, val] = [nums[2i], nums[2i+1]]`.
 
-For each pair, I use a nested loop to push the value into my answer vector freq times. This ensures that the resulting list contains the correct number of elements for each run-length encoding.
+For each such pair, the encoded list contains `freq` elements with value `val`.  
+Your task is to return the **decompressed list**.
 
-Complexity Analysis
-Time Complexity: O(L), where L is the total length of the decompressed list. The algorithm iterates through each pair in the input and then adds elements to the resulting vector based on their frequency. The total number of additions is equal to the length of the final list.
+---
 
-Space Complexity: O(L), where L is the length of the decompressed list. I am creating a new vector to store the result, and its size will be the same as the decompressed list.
+## My Approach
+I implemented a **direct simulation** of the problem statement:
 
-Solution
+- Iterate through the input vector `nums` in steps of two.  
+- The first element in the pair → `freq` (frequency).  
+- The second element in the pair → `val` (value).  
+- Push `val` into the result vector `freq` times.
+
+This guarantees the decompressed list is generated exactly as specified.
+
+---
+
+## Complexity Analysis
+- **Time Complexity:** `O(L)` → where `L` is the length of the decompressed list.  
+  (We perform one insertion per element in the final result.)  
+- **Space Complexity:** `O(L)` → storing the decompressed list.
+
+---
+
+## Solution (C++)
+```cpp
 #include <vector>
 
 class Solution {

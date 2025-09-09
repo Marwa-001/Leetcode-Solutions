@@ -1,18 +1,37 @@
-LeetCode Problem #1528: Shuffle String
-Description
-Given a string s and an integer array indices of the same length, your task is to restore the string s to its original position. The character at the i-th position in s moves to indices[i] in the shuffled string.
+# LeetCode Problem 1528: Shuffle String
 
-My Approach
-My approach is a straightforward implementation of the problem description. I create a new string, shuffled, with the same characters as the original string s. I then iterate through the indices array.
+🔗 [View Problem on LeetCode](https://leetcode.com/problems/shuffle-string/)
 
-For each position i in the original string s, I take the character s[i] and place it at the position indices[i] in the shuffled string. This single pass correctly places each character in its new, restored position.
+---
 
-Complexity Analysis
-Time Complexity: O(N), where N is the length of the string s. The algorithm iterates through the indices array once.
+## Description
+You are given:
+- A string `s`
+- An integer array `indices` of the same length  
 
-Space Complexity: O(N), as I am creating a new string of size N to store the result.
+Your task is to **restore the string `s`** so that the character at the *i-th* position in `s` moves to `indices[i]` in the shuffled string.
 
-Solution
+---
+
+## My Approach
+I followed a direct mapping strategy:
+
+- Create a new string `shuffled` initialized as a copy of `s`.  
+- Iterate through `indices`.  
+  - For each position `i`, place `s[i]` at `shuffled[indices[i]]`.  
+
+Since every index is covered exactly once, the restored string is formed in a single pass.
+
+---
+
+## Complexity Analysis
+- **Time Complexity:** `O(N)` → iterate through the indices once.  
+- **Space Complexity:** `O(N)` → extra string `shuffled` of size `N`.
+
+---
+
+## Solution (C++)
+```cpp
 #include <string>
 #include <vector>
 

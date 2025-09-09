@@ -1,52 +1,54 @@
-LeetCode Problem #705: Design HashSet
-Link to the problem on LeetCode
+# LeetCode Problem #705: Design HashSet
 
-Description
+🔗 [Link to the problem on LeetCode](https://leetcode.com/problems/design-hashset/)
+
+---
+
+## 📖 Description
 Design a HashSet without using any built-in hash table libraries.
 
-Your MyHashSet class should implement the following functions:
+Your `MyHashSet` class should implement the following functions:
 
-MyHashSet(): Initializes the MyHashSet object.
+- **MyHashSet()** → Initializes the `MyHashSet` object.  
+- **void add(int key)** → Inserts the value `key` into the set.  
+- **void remove(int key)** → Removes the value `key` from the set.  
+- **bool contains(int key)** → Returns `true` if the value `key` exists in the set, and `false` otherwise.  
 
-void add(int key): Inserts the value key into the set.
+---
 
-void remove(int key): Removes the value key from the set.
+## 💡 My Approach
+- I used **C++ STL’s `std::unordered_set`** to efficiently implement the required functionality.  
+- The hash-based data structure handles hashing and collision resolution automatically.  
 
-bool contains(int key): Returns true if the value key exists in the set, and false otherwise.
+Implementation details:
+- `add(key)` → Uses `insert()` which avoids duplicates.  
+- `remove(key)` → Uses `erase()` to safely remove if present.  
+- `contains(key)` → Uses `find()`. If `find()` returns `end()`, the element doesn’t exist.  
 
-My Approach
-My approach leverages the C++ Standard Template Library's std::unordered_set to efficiently implement the required functionality. This class provides a ready-made hash-based data structure that handles all the complex logic of hashing and collision resolution for us.
+This is the most straightforward and optimized way to solve the problem by leveraging existing STL containers.  
 
-The add(key) method is implemented by calling the insert() method of the std::unordered_set, which handles adding a new key while automatically avoiding duplicates.
+---
 
-The remove(key) method directly uses the erase() method of the std::unordered_set, which safely removes the key if it exists.
+## ⏱️ Complexity Analysis
 
-The contains(key) method uses the find() method to search for the key. If the key is found, find() returns an iterator to its location; otherwise, it returns an iterator to the end of the container (end()). By comparing the returned iterator with end(), I can determine if the key exists.
+**add()**
+- Time: `O(1)` average, `O(n)` worst-case (hash collisions).  
+- Space: `O(1)` amortized per insertion.  
 
-This method is the most straightforward way to solve the problem by utilizing existing, highly optimized data structures.
+**remove()**
+- Time: `O(1)` average, `O(n)` worst-case.  
+- Space: `O(1)`.  
 
-Complexity Analysis
-add Method:
+**contains()**
+- Time: `O(1)` average, `O(n)` worst-case.  
+- Space: `O(1)`.  
 
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n) where n is the number of elements in the set.
+**Overall Space:** `O(k)` where `k` = number of unique elements in the set.  
 
-Space Complexity: O(1) amortized for adding one element.
+---
 
-remove Method:
-
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n).
-
-Space Complexity: O(1).
-
-contains Method:
-
-Time Complexity: O(1) on average. In the worst-case scenario (with many hash collisions), it could be O(n).
-
-Space Complexity: O(1).
-
-Overall Space Complexity: O(k), where k is the number of unique elements stored in the hash set.
-
-Solution
+## 🧩 Solution (C++)
+```cpp
 #include <unordered_set>
 
 class MyHashSet {
@@ -65,10 +67,6 @@ public:
     }
 
     bool contains(int key) {
-        if (hashset.find(key) != hashset.end()) {
-            return true;
-        } else {
-            return false;
-        }
+        return hashset.find(key) != hashset.end();
     }
 };

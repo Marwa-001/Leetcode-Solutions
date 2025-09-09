@@ -26,7 +26,7 @@ Inside each problem's folder, you will find:
 - [1313 - Decompress Run-Length Encoded List](./1313%20-%20Decompress%20Run-Length%20Encoded%20List)
 - [1528 - Shuffle String](./1528%20-%20Shuffle%20String)
 - [1832 - Check if the Sentence Is a Pangram](./1832%20-%20Check%20if%20the%20Sentence%20Is%20a%20Pangram)
-- [3090 - Count Prefix and Suffix Pairs I](./3090%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
+- [3090 - Count Prefix and Suffix Part 1](./3090%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
 
 ### Medium
 _No medium problems solved yet._

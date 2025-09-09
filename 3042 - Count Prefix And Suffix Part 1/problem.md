@@ -1,37 +1,43 @@
-LeetCode Problem #3042: Count Prefix and Suffix Pairs I
-Description
-You are given a 0-indexed string array words.
+# LeetCode Problem 3042: Count Prefix and Suffix Pairs I
 
-A pair of indices (i, j) is called a prefix-suffix pair if i < j and words[i] is both a prefix and a suffix of words[j].
+🔗 [View Problem on LeetCode](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
 
-Your task is to return the number of prefix-suffix pairs in words.
+---
 
-My Approach
-My approach is a straightforward brute-force solution using a nested loop. I iterate through all possible pairs of indices (i, j) such that i < j.
+## Description
+You are given a 0-indexed string array `words`.
 
-The outer loop iterates with index i from the start of the words array. The inner loop starts with index j from i + 1, ensuring that j is always greater than i.
+A pair of indices `(i, j)` is called a **prefix-suffix pair** if `i < j` and `words[i]` is both a prefix **and** a suffix of `words[j]`.
 
-For each pair (words[i], words[j]), I use a helper function isPrefixAndSuffix to check if words[i] is a prefix and a suffix of words[j]. If the condition is met, I increment a counter ans. Finally, I return the total count.
+Your task is to return the number of prefix-suffix pairs in `words`.
 
-The isPrefixAndSuffix helper function performs the following checks:
+---
 
-Verifies if the lengths are correct (str2 must be at least as long as str1).
+## My Approach
+I implemented a **brute-force** solution using nested loops:
 
-Checks if str1 is a prefix of str2 using str2.substr(0, str1.size()).
+1. The outer loop iterates with index `i` through the array.  
+2. The inner loop starts from `j = i + 1` to ensure `i < j`.  
+3. For each pair `(words[i], words[j])`, I check if `words[i]` is both:  
+   - A prefix of `words[j]` → `words[j].substr(0, words[i].size()) == words[i]`  
+   - A suffix of `words[j]` → `words[j].substr(words[j].size() - words[i].size()) == words[i]`  
+4. If both conditions hold, increment the counter `ans`.  
+5. Return the final count.  
 
-Checks if str1 is a suffix of str2 using str2.substr(str2.size() - str1.size()).
+This ensures every valid prefix-suffix pair is considered.
 
-Complexity Analysis
-Time Complexity: O(N 
-2
- 
-cdotL), where N is the number of words in the input array, and L is the average length of the strings. The nested loops result in O(N 
-2
- ) pairs, and the string substring operations take O(L) time.
+---
 
-Space Complexity: O(1), as the solution uses a constant amount of extra space.
+## Complexity Analysis
+- **Time Complexity:** `O(N^2 * L)`  
+  - `N` = number of words, `L` = average length of the strings.  
+  - Each pair check takes `O(L)` due to substring comparisons.  
+- **Space Complexity:** `O(1)` → constant extra space.
 
-Solution
+---
+
+## Solution (C++)
+```cpp
 #include <string>
 #include <vector>
 
@@ -41,7 +47,8 @@ public:
         if (str2.size() < str1.size()) {
             return false;
         }
-        return (str2.substr(0, str1.size()) == str1) && (str2.substr(str2.size() - str1.size()) == str1);
+        return (str2.substr(0, str1.size()) == str1) && 
+               (str2.substr(str2.size() - str1.size()) == str1);
     }
 
     int countPrefixSuffixPairs(std::vector<std::string>& words) {
