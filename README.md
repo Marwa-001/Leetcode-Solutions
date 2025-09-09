@@ -17,8 +17,7 @@ Inside each problem's folder, you will find:
 ## ✅ Problems Solved
 
 ### Easy
-- [1 - Two Sum](./1%20-%20Two%20Sum)
-- [151 - Reverse Words in a String](./151%20-%20Reverse%20Words%20in%20a%20String)
+- [557 - Reverse Words in a String](./151%20-%20Reverse%20Words%20in%20a%20String)
 - [705 - Design HashSet](./705%20-%20Design%20HashSet)
 - [706 - Design HashMap](./706%20-%20Design%20HashMap)
 - [832 - Flipping an Image](./832%20-%20Flipping%20an%20Image)
@@ -26,7 +25,7 @@ Inside each problem's folder, you will find:
 - [1313 - Decompress Run-Length Encoded List](./1313%20-%20Decompress%20Run-Length%20Encoded%20List)
 - [1528 - Shuffle String](./1528%20-%20Shuffle%20String)
 - [1832 - Check if the Sentence Is a Pangram](./1832%20-%20Check%20if%20the%20Sentence%20Is%20a%20Pangram)
-- [3090 - Count Prefix and Suffix Part 1](./3090%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
+- [3042 - Count Prefix and Suffix Part 1](./3090%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
 
 ### Medium
 _No medium problems solved yet._
