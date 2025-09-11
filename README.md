@@ -27,6 +27,7 @@ Inside each problem's folder, you will find:
 - [1832 - Check if the Sentence Is a Pangram](./1832%20-%20Check%20if%20the%20Sentence%20Is%20a%20Pangram)
 - [3042 - Count Prefix and Suffix Part 1](./3042%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
 - [575 - Design Candies](./575%20-%20Design%20Candies)
+- [1021 - Remove Outermost Parentheses](./1021%20-%20Remove%20Outermost%20Parentheses)
 
 ### Medium
 _No medium problems solved yet._
