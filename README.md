@@ -31,6 +31,7 @@ Inside each problem's folder, you will find:
 - [2185 - Counting Words With a Given Prefix](./2185%20-%20Counting%20Words%20With%20a%20Given%20Prefix)
 - [344 - Reverse String](./344%20-%20Reverse%20String)
 - [2089 - Find Target Indices After Sorted Array](./2089%20-%20Find%20Target%20Indices%20After%20Sorted%20Array)
+- [771 - Jewels and Stones](./771%20-%20Jewels%20and%20Stones)
 
 ### Medium
 _No medium problems solved yet._
@@ -41,8 +42,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 14  
-- **Easy:** 14  
+- **Total Problems Solved:** 15  
+- **Easy:** 15  
 - **Medium:** 0  
 - **Hard:** 0  
 
