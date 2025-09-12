@@ -28,6 +28,7 @@ Inside each problem's folder, you will find:
 - [3042 - Count Prefix and Suffix Part 1](./3042%20-%20Count%20Prefix%20and%20Suffix%20Pairs%20I)
 - [575 - Design Candies](./575%20-%20Design%20Candies)
 - [1021 - Remove Outermost Parentheses](./1021%20-%20Remove%20Outermost%20Parentheses)
+- [2185 - Counting Words With a Given Prefix](./2185%20-%20Counting%20Words%20With%20a%20Given%20Prefix)
 
 ### Medium
 _No medium problems solved yet._
