@@ -39,8 +39,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 10  
-- **Easy:** 10  
+- **Total Problems Solved:** 12  
+- **Easy:** 12  
 - **Medium:** 0  
 - **Hard:** 0  
 
