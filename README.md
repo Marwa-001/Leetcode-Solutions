@@ -29,6 +29,7 @@ Inside each problem's folder, you will find:
 - [575 - Design Candies](./575%20-%20Design%20Candies)
 - [1021 - Remove Outermost Parentheses](./1021%20-%20Remove%20Outermost%20Parentheses)
 - [2185 - Counting Words With a Given Prefix](./2185%20-%20Counting%20Words%20With%20a%20Given%20Prefix)
+- [344 - Reverse String](./344%20-%20Reverse%20String)
 
 ### Medium
 _No medium problems solved yet._
@@ -39,8 +40,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 12  
-- **Easy:** 12  
+- **Total Problems Solved:** 13  
+- **Easy:** 13  
 - **Medium:** 0  
 - **Hard:** 0  
 
