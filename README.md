@@ -33,6 +33,7 @@ Inside each problem's folder, you will find:
 - [2089 - Find Target Indices After Sorted Array](./2089%20-%20Find%20Target%20Indices%20After%20Sorted%20Array)
 - [771 - Jewels and Stones](./771%20-%20Jewels%20and%20Stones)
 - [1710. Maximum Units on a Truck](./1710%20-%20Maximum%20Units%20on%20a%20Truck)
+- [1207 - Unique Number of Occurrences](./1207%20-%20Unique%20Number%20of%20Occurrences/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -43,8 +44,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 16  
-- **Easy:** 16  
+- **Total Problems Solved:** 17  
+- **Easy:** 17  
 - **Medium:** 0  
 - **Hard:** 0  
 
