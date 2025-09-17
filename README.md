@@ -34,6 +34,7 @@ Inside each problem's folder, you will find:
 - [771 - Jewels and Stones](./771%20-%20Jewels%20and%20Stones)
 - [1710. Maximum Units on a Truck](./1710%20-%20Maximum%20Units%20on%20a%20Truck)
 - [1207 - Unique Number of Occurrences](./1207%20-%20Unique%20Number%20of%20Occurrences/problem.md)
+- [349 - Intersection of Two Arrays](./349%20-%20Intersection%20of%20Two%20Arrays/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -44,8 +45,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 17  
-- **Easy:** 17  
+- **Total Problems Solved:** 18 
+- **Easy:** 18  
 - **Medium:** 0  
 - **Hard:** 0  
 
