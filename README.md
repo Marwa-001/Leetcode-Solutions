@@ -36,6 +36,7 @@ Inside each problem's folder, you will find:
 - [1207 - Unique Number of Occurrences](./1207%20-%20Unique%20Number%20of%20Occurrences/problem.md)
 - [349 - Intersection of Two Arrays](./349%20-%20Intersection%20of%20Two%20Arrays/problem.md)
 - [2215 - Find the Difference of Two Arrays](./2215%20-%20Find%20the%20Difference%20of%20Two%20Arrays/problem.md)
+- [136 - Single Number](./136%20-%20Single%20Number/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -46,8 +47,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:** 19 
-- **Easy:** 19  
+- **Total Problems Solved:**20 
+- **Easy:** 20  
 - **Medium:** 0  
 - **Hard:** 0  
 
