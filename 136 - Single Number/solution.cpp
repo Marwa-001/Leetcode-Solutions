@@ -4,19 +4,11 @@ using namespace std;
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> count;
-        
+        int result = 0;
         for (int num : nums) {
-            count[num]++;
+            result ^= num; // XOR each number
         }
-
-        for (const auto& pair : count) {
-            if (pair.second == 1) {
-                return pair.first;
-            }
-        }
-
-        return 0; // Fallback (should not happen due to constraints)
+        return result;
     }
 };
 
