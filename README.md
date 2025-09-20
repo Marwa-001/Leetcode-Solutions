@@ -38,6 +38,7 @@ Inside each problem's folder, you will find:
 - [2215 - Find the Difference of Two Arrays](./2215%20-%20Find%20the%20Difference%20of%20Two%20Arrays/problem.md)
 - [136 - Single Number](./136%20-%20Single%20Number/problem.md)
 - [1636 - Sort Array by Increasing Frequency](./1636%20-%20Sort%20Array%20by%20Increasing%20Frequency/problem.md)
+- [1460 - Make Two Arrays Equal by Reversing Subarrays](./1460%20-%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/problem.md)
 
 ### Medium
 _No medium problems solved yet._
