@@ -39,6 +39,7 @@ Inside each problem's folder, you will find:
 - [136 - Single Number](./136%20-%20Single%20Number/problem.md)
 - [1636 - Sort Array by Increasing Frequency](./1636%20-%20Sort%20Array%20by%20Increasing%20Frequency/problem.md)
 - [1460 - Make Two Arrays Equal by Reversing Subarrays](./1460%20-%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/problem.md)
+- [412 - Fizz Buzz](./412%20-%20Fizz%20Buzz/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -49,8 +50,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**21 
-- **Easy:** 21  
+- **Total Problems Solved:**23 
+- **Easy:** 23  
 - **Medium:** 0  
 - **Hard:** 0  
 
