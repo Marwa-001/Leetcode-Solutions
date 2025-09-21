@@ -40,6 +40,7 @@ Inside each problem's folder, you will find:
 - [1636 - Sort Array by Increasing Frequency](./1636%20-%20Sort%20Array%20by%20Increasing%20Frequency/problem.md)
 - [1460 - Make Two Arrays Equal by Reversing Subarrays](./1460%20-%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/problem.md)
 - [412 - Fizz Buzz](./412%20-%20Fizz%20Buzz/problem.md)
+- [1047 - Remove All Adjacent Duplicates In String](./1047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -50,8 +51,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**23 
-- **Easy:** 23  
+- **Total Problems Solved:**24 
+- **Easy:** 24  
 - **Medium:** 0  
 - **Hard:** 0  
 
