@@ -43,6 +43,7 @@ Inside each problem's folder, you will find:
 - [1047 - Remove All Adjacent Duplicates In String](./1047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/problem.md)
 - [3005 - Count Elements With Maximum Frequency](./3005%20-%20Count%20Elements%20With%20Maximum%20Frequency/problem.md)
 - [476 - Number Complement](./476%20-%20Number%20Complement/problem.md)
+- [258 - Add Digits](./258%20-%20Add%20Digits/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -53,8 +54,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**26 
-- **Easy:** 26  
+- **Total Problems Solved:**27 
+- **Easy:** 27  
 - **Medium:** 0  
 - **Hard:** 0  
 
