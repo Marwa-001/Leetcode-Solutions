@@ -44,6 +44,7 @@ Inside each problem's folder, you will find:
 - [3005 - Count Elements With Maximum Frequency](./3005%20-%20Count%20Elements%20With%20Maximum%20Frequency/problem.md)
 - [476 - Number Complement](./476%20-%20Number%20Complement/problem.md)
 - [258 - Add Digits](./258%20-%20Add%20Digits/problem.md)
+- [169 - Majority Element](./169%20-%20Majority%20Element/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -54,8 +55,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**27 
-- **Easy:** 27  
+- **Total Problems Solved:**28 
+- **Easy:** 28  
 - **Medium:** 0  
 - **Hard:** 0  
 
