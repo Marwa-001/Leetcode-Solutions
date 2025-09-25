@@ -45,6 +45,7 @@ Inside each problem's folder, you will find:
 - [476 - Number Complement](./476%20-%20Number%20Complement/problem.md)
 - [258 - Add Digits](./258%20-%20Add%20Digits/problem.md)
 - [169 - Majority Element](./169%20-%20Majority%20Element/problem.md)
+- [268 - Missing Number](./268%20-%20Missing%20Number/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -55,8 +56,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**28 
-- **Easy:** 28  
+- **Total Problems Solved:**29 
+- **Easy:** 29  
 - **Medium:** 0  
 - **Hard:** 0  
 
