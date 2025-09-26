@@ -46,6 +46,7 @@ Inside each problem's folder, you will find:
 - [258 - Add Digits](./258%20-%20Add%20Digits/problem.md)
 - [169 - Majority Element](./169%20-%20Majority%20Element/problem.md)
 - [268 - Missing Number](./268%20-%20Missing%20Number/problem.md)
+- [242 - Valid Anagram](./242%20-%20Valid%20Anagram/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -56,8 +57,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**29 
-- **Easy:** 29  
+- **Total Problems Solved:**30 
+- **Easy:** 30  
 - **Medium:** 0  
 - **Hard:** 0  
 
