@@ -47,6 +47,7 @@ Inside each problem's folder, you will find:
 - [169 - Majority Element](./169%20-%20Majority%20Element/problem.md)
 - [268 - Missing Number](./268%20-%20Missing%20Number/problem.md)
 - [242 - Valid Anagram](./242%20-%20Valid%20Anagram/problem.md)
+- [217 - Contains Duplicate](./217%20-%20Contains%20Duplicate/problem.md)
 
 ### Medium
 _No medium problems solved yet._
