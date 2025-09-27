@@ -48,6 +48,7 @@ Inside each problem's folder, you will find:
 - [268 - Missing Number](./268%20-%20Missing%20Number/problem.md)
 - [242 - Valid Anagram](./242%20-%20Valid%20Anagram/problem.md)
 - [217 - Contains Duplicate](./217%20-%20Contains%20Duplicate/problem.md)
+- [283 - Move Zeroes](./283%20-%20Move%20Zeroes/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -58,8 +59,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**1 
-- **Easy:** 31  
+- **Total Problems Solved:**32 
+- **Easy:** 32  
 - **Medium:** 0  
 - **Hard:** 0  
 
