@@ -58,8 +58,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**30 
-- **Easy:** 30  
+- **Total Problems Solved:**1 
+- **Easy:** 31  
 - **Medium:** 0  
 - **Hard:** 0  
 
