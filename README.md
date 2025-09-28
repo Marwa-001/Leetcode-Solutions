@@ -49,6 +49,7 @@ Inside each problem's folder, you will find:
 - [242 - Valid Anagram](./242%20-%20Valid%20Anagram/problem.md)
 - [217 - Contains Duplicate](./217%20-%20Contains%20Duplicate/problem.md)
 - [283 - Move Zeroes](./283%20-%20Move%20Zeroes/problem.md)
+- [976 - Largest Perimeter Triangle](./976%20-%20Largest%20Perimeter%20Triangle/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -59,8 +60,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**32 
-- **Easy:** 32  
+- **Total Problems Solved:**33 
+- **Easy:** 33  
 - **Medium:** 0  
 - **Hard:** 0  
 
