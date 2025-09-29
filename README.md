@@ -50,6 +50,7 @@ Inside each problem's folder, you will find:
 - [217 - Contains Duplicate](./217%20-%20Contains%20Duplicate/problem.md)
 - [283 - Move Zeroes](./283%20-%20Move%20Zeroes/problem.md)
 - [976 - Largest Perimeter Triangle](./976%20-%20Largest%20Perimeter%20Triangle/problem.md)
+- [448 - Find All Numbers Disappeared in an Array](./448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -60,8 +61,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**33 
-- **Easy:** 33  
+- **Total Problems Solved:**34 
+- **Easy:** 34  
 - **Medium:** 0  
 - **Hard:** 0  
 
