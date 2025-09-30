@@ -51,6 +51,7 @@ Inside each problem's folder, you will find:
 - [283 - Move Zeroes](./283%20-%20Move%20Zeroes/problem.md)
 - [976 - Largest Perimeter Triangle](./976%20-%20Largest%20Perimeter%20Triangle/problem.md)
 - [448 - Find All Numbers Disappeared in an Array](./448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/problem.md)
+- [1539 - Kth Missing Positive Number](./1539%20-%20Kth%20Missing%20Positive%20Number/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -61,8 +62,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**34 
-- **Easy:** 34  
+- **Total Problems Solved:**35 
+- **Easy:** 35  
 - **Medium:** 0  
 - **Hard:** 0  
 
