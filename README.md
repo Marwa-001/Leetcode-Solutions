@@ -53,6 +53,7 @@ Inside each problem's folder, you will find:
 - [448 - Find All Numbers Disappeared in an Array](./448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/problem.md)
 - [1539 - Kth Missing Positive Number](./1539%20-%20Kth%20Missing%20Positive%20Number/problem.md)
 - [2549 - Count Distinct Numbers on Board](./2549%20-%20Count%20Distinct%20Numbers%20on%20Board/problem.md)
+- [485 - Max Consecutive Ones](./485%20-%20Max%20Consecutive%20Ones/problem.md)
 
 ### Medium
 _No medium problems solved yet._
@@ -63,8 +64,8 @@ _No hard problems solved yet._
 ---
 
 ## 📊 Progress
-- **Total Problems Solved:**36 
-- **Easy:** 36  
+- **Total Problems Solved:**37 
+- **Easy:** 37  
 - **Medium:** 0  
 - **Hard:** 0  
 
