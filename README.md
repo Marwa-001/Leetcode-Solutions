@@ -70,3 +70,11 @@ _No hard problems solved yet._
 - **Hard:** 0  
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
