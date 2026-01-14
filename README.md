@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
