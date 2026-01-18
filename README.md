@@ -10,6 +10,7 @@
 | [0367-valid-perfect-square](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 ## Array
 |  |
 | ------- |
