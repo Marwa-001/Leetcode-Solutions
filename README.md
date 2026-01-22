@@ -6,6 +6,7 @@
 | [0007-reverse-integer](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -61,9 +62,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
