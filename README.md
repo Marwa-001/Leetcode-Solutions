@@ -16,6 +16,7 @@
 | [0492-construct-the-rectangle](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
