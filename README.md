@@ -18,6 +18,7 @@
 | [0507-perfect-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [1025-divisor-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -52,10 +53,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
