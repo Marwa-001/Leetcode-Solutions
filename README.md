@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [3379-transformed-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [3379-transformed-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Brainteaser
 |  |
 | ------- |
