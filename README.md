@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Memoization
