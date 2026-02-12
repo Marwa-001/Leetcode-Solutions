@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3379-transformed-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -47,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
