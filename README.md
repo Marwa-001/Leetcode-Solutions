@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
