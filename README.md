@@ -5,6 +5,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -28,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0528-random-pick-with-weight](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
