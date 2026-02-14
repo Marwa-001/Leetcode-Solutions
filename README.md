@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0504-base-7) |
 ## Simulation
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
