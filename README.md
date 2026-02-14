@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0504-base-7) |
 ## Simulation
