@@ -32,6 +32,7 @@
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0441-arranging-coins) |
