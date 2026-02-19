@@ -29,6 +29,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -124,6 +126,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Marwa-001/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
